@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/samuelazran/react-flux-alt-es6"
+    "url": "https://github.com/samuelazran/react-flux-alt-es6.git"
   },
   "author": "Samuel Azran",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/samuelazran/react-flux-alt-es6"
+    "url": "https://github.com/samuelazran/react-flux-alt-es6.git"
   },
   "homepage": "https://github.com/samuelazran/react-flux-alt-es6",
   "devDependencies": {
